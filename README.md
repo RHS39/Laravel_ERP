@@ -1,5 +1,5 @@
-# hr_ms_laravel_10
-
+# Laravel_ERP
+# Designed For educational Purpose
 
 
 ## Getting started
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/SoengSouy/hr_ms_laravel_10.git
+git remote add origin https://gitlab.com/RHS39/Laravel_ERP.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/SoengSouy/hr_ms_laravel_10/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/RHS39/Laravel_ERP/-/settings/integrations)
 
 ## Collaborate with your team
 
